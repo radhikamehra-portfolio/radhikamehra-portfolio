@@ -68,3 +68,12 @@ I am Radhika Mehra, a market researcher and data analyst, with a passion for vis
 
 ---
 
+## 🚀 My Projects
+
+[![Project 1](https://img.shields.io/badge/Data%20Analysis-View%20Project-blue?style=for-the-badge)](https://github.com/YOUR-USERNAME/project1)
+
+[![Project 2](https://img.shields.io/badge/GIS%20Mapping-View%20Project-green?style=for-the-badge)](https://github.com/YOUR-USERNAME/project2)
+
+[![Project 3](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge)](https://github.com/YOUR-USERNAME/project3)
+
+
