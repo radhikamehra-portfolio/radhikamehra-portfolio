@@ -15,7 +15,15 @@ I am Radhika Mehra, a market researcher and data analyst, with a passion for vis
 
 ---
 
+## Education
+
+**M.S. Information Systems** — Cal State LA, May 2027  
+**B.A. International Development Studies** — UCLA, June 2024
+
 ## Technical Skills
+
+---
+
 📊 Data Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,14 +53,6 @@ I am Radhika Mehra, a market researcher and data analyst, with a passion for vis
 - Led development centric tasks, such as building six empathy maps, personas, and the Chatbot prototype on HTML.
   
 - Synthesized the findings in a project report and conducted three presentations to guest panels across the scope of the project.
-
-
----
-
-## Education
-
-**M.S. Information Systems** — Cal State LA  
-**B.A. International Development Studies** — UCLA
 
 ---
 
