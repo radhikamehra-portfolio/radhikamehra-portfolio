@@ -56,10 +56,10 @@ I am Radhika Mehra, a market researcher and data analyst, with a passion for vis
 
 ---
 ## Certifications
-Data Visualization in R with ggplot2 (2025)
-Associate Data Analyst in SQL (Data Camp)
-SQL Essential Training(2025)
-Introduction to Python (2025)
+- Data Visualization in R with ggplot2 (2025)
+- Associate Data Analyst in SQL (Data Camp)
+- SQL Essential Training(2025)
+- Introduction to Python (2025)
 
 ## Contact
 
