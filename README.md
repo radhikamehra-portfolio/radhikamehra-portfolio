@@ -1,4 +1,4 @@
-I am Radhika Mehra, a market researcher and data analyst, with a passion for visual storytelling. 
+I am Radhika Mehra, a market researcher and data analyst, with a passion for visual storytelling, having engaged within roles in the entertainment, non-profit and labor-relations insutry. I am currently pursuing a M.S in Information System at Cal State LA, and previously received a B.A. in International Development Studies at UCLA. I also really enjoy research in almost every field--from economics to energy markets--and feel free to explore this space as my digital diary of research + analytics !
 
 📊 Data Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
