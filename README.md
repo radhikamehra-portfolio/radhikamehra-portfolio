@@ -1,10 +1,10 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Radhika%20Mehra&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
   <a href="#about-me">About</a> •
   <a href="#technical-skills">Skills</a> •
   <a href="#projects">Projects</a> •
   <a href="#education">Education</a> •
   <a href="#contact">Contact</a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,283E51100:283E51&height=200&section=header&text=Radhika%20Mehra&fontSize=40&fontcolor=0:COLOR1,100:COLOR2"/>
 </p>
 
 ---
