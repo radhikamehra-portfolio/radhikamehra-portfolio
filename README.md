@@ -1,5 +1,4 @@
 <p align="center">
-<imgsrc="https://capsulerender.vercel.app/apitype=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Radhika%20Mehra&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 <a href="#about-me">About</a> •
 <a href="#technical-skills">Skills</a> •
 <a href="#projects">Projects</a> •
