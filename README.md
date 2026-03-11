@@ -24,7 +24,7 @@ I am Radhika Mehra, a market researcher and data analyst, with a passion for vis
 
 ---
 
-📊 Data Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
@@ -55,6 +55,11 @@ I am Radhika Mehra, a market researcher and data analyst, with a passion for vis
 - Synthesized the findings in a project report and conducted three presentations to guest panels across the scope of the project.
 
 ---
+## Certifications
+Data Visualization in R with ggplot2 (2025)
+Associate Data Analyst in SQL (Data Camp)
+SQL Essential Training(2025)
+Introduction to Python (2025)
 
 ## Contact
 
