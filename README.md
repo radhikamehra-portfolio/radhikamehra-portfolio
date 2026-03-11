@@ -31,11 +31,11 @@ I am Radhika Mehra, a market researcher and data analyst, with a passion for vis
 ## Projects
 
 ### 📊 Exploratory Data Analysis and Visualizations with SAS, R, SQL 
-• Created 4 key data visualizations and conducted exploratory data analysis based on world life expectancy measures for a set of 133
-countries from 2000-2015, after cleaning and manipulating two datasets from Kaggle with over 24735 and 1044 unique values
-respectively, using RStudio and SAS Studio, applying SQL filtering queries.
-• Applied concepts from ggplot to create scatterplots, and geographic maps, and deduced statistical analysis for application in the visuals.
-• Conducted scholarly analysis of the findings from the visualization and compiled it in professional academic report.
+- Created 4 key data visualizations and conducted exploratory data analysis based on world life expectancy measures for a set of 133 countries from 2000-2015, after cleaning and manipulating two datasets from Kaggle with over 24735 and 1044 unique values respectively, using RStudio and SAS Studio, applying SQL filtering queries.
+  
+- Applied concepts from ggplot to create scatterplots, and geographic maps, and deduced statistical analysis for application in the visuals.
+  
+- Conducted scholarly analysis of the findings from the visualization and compiled it in professional academic report.
 
 ### 🌍 AI-Academic Planner with HTML, Qualtrics
 • Created a prototype of an AI-chatbot within the Cal State LA’s academic planner, that assists with class and degree pathway planning, as
