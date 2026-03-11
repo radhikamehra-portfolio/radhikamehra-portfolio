@@ -4,6 +4,7 @@
   <a href="#projects">Projects</a> •
   <a href="#education">Education</a> •
   <a href="#contact">Contact</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Radhika%20Mehra&fontSize=40&fontColor=ffffff"/>
 </p>
 
 ---
