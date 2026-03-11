@@ -38,12 +38,13 @@ I am Radhika Mehra, a market researcher and data analyst, with a passion for vis
 - Conducted scholarly analysis of the findings from the visualization and compiled it in professional academic report.
 
 ### 🌍 AI-Academic Planner with HTML, Qualtrics
-• Created a prototype of an AI-chatbot within the Cal State LA’s academic planner, that assists with class and degree pathway planning, as
-a part of a group project.
-• Conducted the five-stage design thinking process for a period of five months, collecting 100 Qualtrics questionnaire responses, two
-focus group interviews, five personal interviews to identify key student issues across the university.
-• Led development centric tasks, such as building six empathy maps, personas, and the Chatbot prototype on HTML.
-• Synthesized the findings in a project report and conducted three presentations to guest panels across the scope of the project.
+- Created a prototype of an AI-chatbot within the Cal State LA’s academic planner, that assists with class and degree pathway planning, as a part of a group project.
+  
+- Conducted the five-stage design thinking process for a period of five months, collecting 100 Qualtrics questionnaire responses, two focus group interviews, five personal interviews to identify key student issues across the university.
+  
+- Led development centric tasks, such as building six empathy maps, personas, and the Chatbot prototype on HTML.
+  
+- Synthesized the findings in a project report and conducted three presentations to guest panels across the scope of the project.
 
 
 ---
